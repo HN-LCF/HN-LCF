@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hi! I am a new developer from *SiChuan University* in Chengdu China.
+Hi! I am a new developer from *Sichuan University* in Chengdu, China.
 And there are some interesting projects that I developed myself.
 
 If you interested, you can communicate with me by [email](louchangfeng@outlook.com).
