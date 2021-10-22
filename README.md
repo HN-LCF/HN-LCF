@@ -1,4 +1,6 @@
-# Homepage
+<h1 align="center"> Homepage </h1>
+
+*<div align="center"> Welcome to my github! </div>*
 
 ## Introduction
 
